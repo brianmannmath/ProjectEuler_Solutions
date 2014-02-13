@@ -1,3 +1,7 @@
+#When I wrote this originally, I did not know that Python had support for large
+#integers, so I wrote my own functions to do it. This problem could be done in 
+#3 lines instead, but I'm going to leave this.
+
 import time
 
 #function which takes a number as a list of digits, multiples the number by 2

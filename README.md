@@ -1,1 +1,1 @@
-Here are solutions to some of the projecteuler.net problems in a combination of C++ and Haskell.
+Here are solutions to some of the projecteuler.net problems mostly in Python, but with some C++ and Haskell.
